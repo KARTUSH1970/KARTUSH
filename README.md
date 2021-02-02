@@ -1,0 +1,2 @@
+# KARTUSH
+Amulet for Faraon
